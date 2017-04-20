@@ -4,4 +4,6 @@
 
         git log
 
+-   Short form
 
+        git log --oneline
